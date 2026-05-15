@@ -137,7 +137,7 @@
     "jquery": "^3.7.1",
     "json-templates": "^5.1.0",
     "mime": "^4.0.3",
-    "next": "14.2.3",
+    "next": "15.5.18",
     "node-downloader-helper": "^2.1.9",
     "osx-temperature-sensor": "^1.0.8",
     "pdrive": "^0.0.23",
