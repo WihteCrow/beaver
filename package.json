@@ -1,7 +1,7 @@
 {
   "name": "@beaver/source",
   "version": "0.0.0",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "scripts": {
     "prepare": "husky",
     "commit": "git add . && git-cz",
