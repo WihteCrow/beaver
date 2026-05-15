@@ -168,8 +168,8 @@ dependencies:
     specifier: ^9.2.8
     version: 9.2.8
   systeminformation:
-    specifier: ^5.22.7
-    version: 5.22.9
+    specifier: ^5.31.6
+    version: 5.31.6
   tailwind-merge:
     specifier: ^2.2.2
     version: 2.3.0
@@ -2825,7 +2825,7 @@ packages:
       '@motionone/types': 10.17.0
       '@motionone/utils': 10.17.0
       hey-listen: 1.0.8
-      tslib: 2.8.1
+      tslib: 2.6.2
     dev: false
 
   /@motionone/easing@10.17.0:
@@ -10189,7 +10189,7 @@ packages:
   /framesync@6.0.1:
     resolution: {integrity: sha512-fUY88kXvGiIItgNC7wcTOl0SNRCVXMKSWW2Yzfmn7EKNc+MpCzcz9DhdHcdjbrtN3c6R4H5dTY2jiCpPdysEjA==}
     dependencies:
-      tslib: 2.8.1
+      tslib: 2.6.2
     dev: false
 
   /fresh@0.5.2:
@@ -14026,7 +14026,7 @@ packages:
       framesync: 6.0.1
       hey-listen: 1.0.8
       style-value-types: 5.0.0
-      tslib: 2.8.1
+      tslib: 2.6.2
     dev: false
 
   /portfinder@1.0.32:
@@ -16446,7 +16446,7 @@ packages:
     resolution: {integrity: sha512-08yq36Ikn4kx4YU6RD7jWEv27v4V+PUsOGa4n/as8Et3CuODMJQ00ENeAVXAeydX4Z2j1XHZF1K2sX4mGl18fA==}
     dependencies:
       hey-listen: 1.0.8
-      tslib: 2.8.1
+      tslib: 2.6.2
     dev: false
 
   /styled-jsx@5.1.6(@babel/core@7.24.6)(react@18.3.1):
@@ -16603,8 +16603,8 @@ packages:
       rename-overwrite: 5.0.0
     dev: false
 
-  /systeminformation@5.22.9:
-    resolution: {integrity: sha512-qUWJhQ9JSBhdjzNUQywpvc0icxUAjMY3sZqUoS0GOtaJV9Ijq8s9zEP8Gaqmymn1dOefcICyPXK1L3kgKxlUpg==}
+  /systeminformation@5.31.6:
+    resolution: {integrity: sha512-Uv2b2uGGM6ns+26czgW2cYRabYdnswM0ddSOOlryHOaelzsmDSet1iM/NT7VOYxW8x/BW+HkY+b1Ve2pLTSGSA==}
     engines: {node: '>=8.0.0'}
     os: [darwin, linux, win32, freebsd, openbsd, netbsd, sunos, android]
     hasBin: true
