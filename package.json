@@ -156,7 +156,7 @@
     "strip-ansi": "^7.1.0",
     "sudo-prompt": "^9.2.1",
     "sudo-prompt-programfiles-x86": "^9.2.8",
-    "systeminformation": "^5.22.7",
+    "systeminformation": "^5.31.6",
     "tailwind-merge": "^2.2.2",
     "tailwindcss-animate": "^1.0.7",
     "tree-kill-promise": "^3.0.14",
